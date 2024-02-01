@@ -59,6 +59,8 @@ body {
 
 table {
   border-collapse: collapse;
+  width:90%;
+  align:center;
 }
 table td{
   border:1px solid #000;
