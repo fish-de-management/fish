@@ -57,7 +57,7 @@ body {
   font-size: 26px;
 }
 
-table {
+table, tr, td{
   border:1px solid #000;
 }
 
